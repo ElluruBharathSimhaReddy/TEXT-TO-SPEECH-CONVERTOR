@@ -1,5 +1,9 @@
 ## Project Title
 Text to speech convertor.
+## Team Members
+1. Elluru Bharath Simha Reddy(9921004197@klu.ac.in)
+2. Dwarakacharla Vyshnavi(9921004864@klu.ac.in)
+3. Peddireddy Sarthika(9921004555@klu.ac.in)
 ## Description
 The text-to-speech converter project creates a web tool where users can input text and have it converted into spoken words. It aims to improve accessibility and user experience for individuals who prefer auditory content or have visual impairments. The project involves designing a user-friendly interface, implementing text-to-speech functionality using JavaScript, ensuring compatibility with different web browsers, and providing clear documentation for usage. Ultimately, the tool makes it easier for users to listen to text-based content, enhancing their ability to consume information while multitasking or on-the-go.
 ## Problem 
